@@ -8,7 +8,7 @@ page](https://github.com/StanfordVL/cs131_notes).
 
 2. Next, clone your forked repository into your local machine:
 ```
-git clone github.com/YOUR_GITHUB_ACCOUNT/cs131_notes.git
+git clone github.com//cs131_notes.git
 ```
 3. Give others permission to commit to your forked repository by clicking on
 "Settings" and then "Collaborators".
